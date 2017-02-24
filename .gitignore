@@ -1,0 +1,15 @@
+# Intellij Idea project files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# gradle config
+.gradle/
+
+# project binaries
+build/
+/out/
+/log/
+/classes/
+.tmp
